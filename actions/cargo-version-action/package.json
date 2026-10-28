@@ -20,7 +20,7 @@
     "@actions/exec": "^1.1.1",
     "@actions/github": "^6.0.0",
     "semver": "^7.7.1",
-    "toml": "^3.0.0"
+    "toml": "^5.0.1"
   },
   "devDependencies": {
     "@jest/globals": "^29.7.0",
